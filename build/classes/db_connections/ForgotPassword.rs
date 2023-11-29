@@ -1,0 +1,8 @@
+db_connections.ResetFail
+db_connections.ForgotPassword
+db_connections.NewPassword$3
+db_connections.NewPassword
+db_connections.NoEmail
+db_connections.NewPassword$1
+db_connections.NewPassword$2
+db_connections.ResetSuccess

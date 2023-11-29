@@ -1,0 +1,9 @@
+db_connections.UpdateFail
+db_connections.NewDetails
+db_connections.EditDetails
+db_connections.NewDetails$1
+db_connections.UpdateSuccess
+db_connections.NewDetails$NoEdit
+db_connections.NewDetails$3
+db_connections.NewDetails$2
+db_connections.NoEdit
